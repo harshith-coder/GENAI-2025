@@ -14,11 +14,33 @@ An engaging application designed to erase loneliness, prevent boredom, and boost
 
 ### 🚀 How to Play
 
-1. Run the game:
-   ```bash
-   python brain_training_game.py
-   ```
+#### Quick Start (Recommended)
 
+**Linux/Mac:**
+```bash
+./play.sh
+```
+
+**Windows:**
+```batch
+play.bat
+```
+
+#### Manual Start
+
+```bash
+python brain_training_game.py
+```
+
+or
+
+```bash
+python3 brain_training_game.py
+```
+
+#### Getting Started
+
+1. Launch the game using one of the methods above
 2. Choose from 5 different brain training games
 3. Follow the on-screen instructions
 4. Challenge yourself and beat your high scores!
